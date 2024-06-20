@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-20T22:46:40 SGT" name="Default suite" finished-at="2024-06-20T22:46:49 SGT" duration-ms="9462">
+    <groups>
+    </groups>
+    <test started-at="2024-06-20T22:46:40 SGT" name="Default test" finished-at="2024-06-20T22:46:49 SGT" duration-ms="9462">
+      <class name="jupiterToysTest.TC03_Shop_ValidateProductOnCart">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:jupiterToysTest.TC03_Shop_ValidateProductOnCart@5bf8fa12]" started-at="2024-06-20T22:46:40 SGT" name="initialize" finished-at="2024-06-20T22:46:46 SGT" duration-ms="6436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="validateAddingProductToCart()[pri:0, instance:jupiterToysTest.TC03_Shop_ValidateProductOnCart@5bf8fa12]" started-at="2024-06-20T22:46:46 SGT" name="validateAddingProductToCart" description="Shop - Validate Adding of Products to Cart" finished-at="2024-06-20T22:46:49 SGT" duration-ms="2596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddingProductToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:jupiterToysTest.TC03_Shop_ValidateProductOnCart@5bf8fa12]" started-at="2024-06-20T22:46:49 SGT" name="closeBrowser" finished-at="2024-06-20T22:46:49 SGT" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- jupiterToysTest.TC03_Shop_ValidateProductOnCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
